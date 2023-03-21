@@ -17309,13 +17309,13 @@ export const dataTransaction = [
 export const dataUser = [
   {
     _id: "63701cc1f03239c72c00017f",
-    name: "Konstantine",
-    email: "kranstead0@narod.ru",
+    name: "Imanol Malamud",
+    email: "imanolm93@gmail.com",
     password: "omMDCh",
     city: "Nurabelen",
     state: null,
     country: "ID",
-    occupation: "Computer Systems Analyst I",
+    occupation: "Software Developer",
     phoneNumber: "8346315874",
     transactions: [
       "63701d74f0323986f3000158",
